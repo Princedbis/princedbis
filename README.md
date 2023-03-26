@@ -1,36 +1,37 @@
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Prince%20Kumar&fontSize=90)
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
  
 <a href="https://www.linkedin.com/in/prince-kumar-b8765a217/">
-  <img align="left" alt="Prince Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sonu Soni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 Experience is the name everyone gives to their mistakes. ❤️ <br><br>
 
 
-js
+```js
 <Bio 
   name= { "Prince Kumar" }
   course = { "BE CSE" }
   year = {3}
   college= { "Chandigarh University, Punjab" } 
 />
-
+```
 
 <img align="right" alt="Coding" src="https://github.com/rockingrohit9639/rockingrohit9639/blob/main/coding.gif" width="350" height="250" /><br>
 
-c
-printf("Currently learning %s", "Andriod Development");
-
-c++
-cout<<"Passionate "<< "Web Development" <<endl;
-
-python
+```c
+printf("Currently learning %s", "Android Developer");
+```
+```c++
+cout<<"Passionate "<< "Web Developer" <<endl;
+```
+```python
 print(f"Country : {India}")
-
-js
+```
+```js
 console.log(`Get Set Code !!!`);
-
+```
 ------------------
 
 
